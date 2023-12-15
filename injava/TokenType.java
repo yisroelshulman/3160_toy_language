@@ -1,0 +1,9 @@
+package injava;
+
+enum TokenType {
+    LEFT_PARENT, RIGHT_PARENT, EQUAL, PLUS, MINUS, STAR, SEMICOLON,
+
+    IDENTIFIER, LITERAL,
+
+    ERROR, EOF
+}
