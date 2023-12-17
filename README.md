@@ -1,7 +1,7 @@
 # 3160 Toy Language Project
 
 The following is the toy language for the 3160 Project.
->> The language does basic operations (addition, subtraction, and multiplication) with variables. Variables must be declared and assigned a value before being used.
+> The language does basic operations (addition, subtraction, and multiplication) with variables. Variables must be declared and assigned a value before being used.
 
 # Grammar Rules
 `Program`: Assignment* \

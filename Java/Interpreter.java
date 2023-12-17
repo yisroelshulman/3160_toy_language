@@ -1,11 +1,11 @@
-package injava;
+package Java;
 
 
 import java.util.HashMap;
 import java.util.Map;
 import java.util.List;
 
-import static injava.TokenType.*;
+import static Java.TokenType.*;
 
 public class Interpreter {
 

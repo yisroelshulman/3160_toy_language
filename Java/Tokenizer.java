@@ -1,9 +1,9 @@
-package injava;
+package Java;
 
 import java.util.List;
 import java.util.ArrayList;
 
-import static injava.TokenType.*;
+import static Java.TokenType.*;
 
 public class Tokenizer {
 

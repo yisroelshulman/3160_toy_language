@@ -1,4 +1,4 @@
-package injava;
+package Java;
 
 public class Token {
 
